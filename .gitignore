@@ -1,0 +1,21 @@
+# Clumzee project
+cmake-build-debug/
+libs/
+
+# Compiled binaries and build artifacts
+*.o
+*.out
+
+# Generated build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE files
+.clion/
+.idea/
+
+# Any HTML
+*.html
+*.xhtml
